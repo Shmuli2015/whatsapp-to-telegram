@@ -10,8 +10,6 @@ This project creates a bridge between WhatsApp and Telegram, allowing messages f
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
